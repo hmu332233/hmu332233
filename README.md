@@ -1,6 +1,6 @@
 <p align="center">
-   <a href="https://moon-phase.vercel.app">
-      <img src="https://moon-phase.vercel.app/moon.svg" />
+   <a href="https://moon-svg.minung.dev">
+      <img src="https://moon-svg.minung.dev/moon.svg" />
    </a>
 </p>
 <p align="center">
