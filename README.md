@@ -1,8 +1,11 @@
 <div align="center">
    <h3>Today's Moon</h3>
    <a href="https://moon-svg.minung.dev">
-    <img src="https://moon-svg.minung.dev/moon.svg?round=true" alt="moon.svg" />
-  </a>
+    <img src="https://moon-svg.minung.dev/moon.svg" alt="moon.svg" />
+   </a>
+   <a href="https://moon-svg.minung.dev">
+    <img src="https://moon-svg.minung.dev/moon.svg?theme=ray" alt="moon.svg" />
+   </a>
 </div>
 <br />
 <p align="center">
