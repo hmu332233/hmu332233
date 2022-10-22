@@ -1,4 +1,9 @@
 <div align="center">
+   <a href="https://dday-widget.minung.dev">
+    <img src="https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2023-01-01" alt="dday-widget.svg" />
+  </a>
+</div>
+<div align="center">
    <h3>Today's Moon</h3>
    <a href="https://moon-svg.minung.dev">
     <img src="https://moon-svg.minung.dev/moon.svg" alt="moon.svg" />
