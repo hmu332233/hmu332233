@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://embed-widget.minung.dev/widget/about2" alt="About Me" />
+  <a href="https://blog-new.minung.dev/about-short">
+    <img src="https://embed-widget.minung.dev/widget/about2" alt="About Me" />
+  </a>
 </div>
 <div align="center">
   <a href="https://dday-widget.minung.dev">
