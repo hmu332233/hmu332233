@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="https://9oormthon.goorm.io">
+    <img src="https://goormthon-badge.minung.dev/badge.svg" alt="dday-widget.svg" loading="lazy" />
+  </a>
+</div>
+
+<div align="center">
   <a href="https://blog-new.minung.dev/about-short">
     <img src="https://embed-widget.minung.dev/widget/about2" alt="About Me" loading="lazy" />
   </a>
