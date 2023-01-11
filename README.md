@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://9oormthon-badge.minung.dev">
-    <img src="https://9oormthon-badge.minung.dev/badge.svg?text=구름톤멘토&speed=1" alt="dday-widget.svg" loading="lazy" />
+    <img src="https://9oormthon-badge.minung.dev/badge.svg?text=%EA%B5%AC%EB%A6%84%ED%86%A4%EB%A9%98%ED%86%A0&speed=1" alt="9oormthon-badge.svg" loading="lazy" />
   </a>
 </div>
 
